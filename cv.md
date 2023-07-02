@@ -14,7 +14,7 @@ I'm on maternity leave and I learn Front-End Development in RSSchool also I lear
 
 **Work experience**
 ===
-No
+laboratory engineer
 
 **Education**  
 ===
